@@ -26,30 +26,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_urls.TestUrls.executor": "Run",
-    "Python tests.Python tests for test_urls.TestUrls.test_get_url.executor": "Run",
-    "Python tests.Python tests for test_urls.TestUrls.test_get_url_prefix_with_slash.executor": "Run",
-    "Python tests.Python tests for test_urls.TestUrls.test_get_url_prefix_without_ending_slash.executor": "Run",
-    "Python tests.Python tests for test_urls.TestUrls.test_get_url_with_custom_prefix.executor": "Run",
-    "Python tests.Python tests for test_urls.TestUrls.test_get_url_with_inexistent_url.executor": "Run",
-    "Python tests.Python tests for test_urls.TestUrls.test_get_url_with_invalid_key.executor": "Run",
-    "Python tests.Python tests for test_urls.TestUrls.test_get_url_with_js_style.executor": "Run",
-    "Python tests.pytest in tests.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/roberto/dev/personal/django-py-reverse/tests",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.black.configuration.BlackFormatterConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_urls.TestUrls.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_urls.TestUrls.test_get_url.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_urls.TestUrls.test_get_url_prefix_with_slash.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_urls.TestUrls.test_get_url_prefix_without_ending_slash.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_urls.TestUrls.test_get_url_with_custom_prefix.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_urls.TestUrls.test_get_url_with_inexistent_url.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_urls.TestUrls.test_get_url_with_invalid_key.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_urls.TestUrls.test_get_url_with_js_style.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in tests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/roberto/dev/personal/django-py-reverse/tests&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.black.configuration.BlackFormatterConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_urls.TestUrls">
     <configuration name="Python tests for test_urls.TestUrls" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="django-py-reverse" />
