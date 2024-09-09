@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05dfa121-0004-4409-9323-f1fe6f80f88e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_py_reverse/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_py_reverse/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="05dfa121-0004-4409-9323-f1fe6f80f88e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

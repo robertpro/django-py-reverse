@@ -75,3 +75,23 @@ print(urls['accountPasswordResetToken'](uidb36="123", token="456"))
 # https://example.com/api/v1/es/accounts/password/reset/
 # https://example.com/api/v1/accounts/password/reset/123-456/
 ```
+
+### You can get the urls from your current django & django-js-reverse project more info [here](https://pypi.org/project/django-js-reverse/)
+
+```bash
+wget ${API_ENDPOINT}/jsreverse/json/ -O data/urls.json
+```
+
+### Then on your python project
+
+```python
+import json
+from django_py_reverse import Urls
+
+API_ENDPOINT = "https://example.com/api/v1"
+
+with open("data/urls.json") as f:
+    data_urls = json.load(f)
+
+urls = Urls(data=data_urls, url_prefix=API_ENDPOINT).factory()
+```
