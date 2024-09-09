@@ -36,5 +36,5 @@ jobs:
           poetry run coverage run -m pytest
           poetry run coverage lcov
           poetry run coverage report
-      - name: Coveralls
-        uses: coverallsapp/github-action@v2
+      - name: Coveralls GitHub Action
+        uses: coverallsapp/github-action@v2.3.0
